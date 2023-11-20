@@ -1,1 +1,1 @@
-# Django_week1
+# Django_GDSC_week1
